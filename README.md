@@ -1,4 +1,4 @@
-# Google Keyword Extractor - Laravel Version 🚀
+# Google Keyword Extractor - Laravel 🚀
 
 A professional SEO-focused tool for layered Google Autocomplete keyword extraction, built with the Laravel framework.
 

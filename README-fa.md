@@ -1,4 +1,4 @@
-# Google Keyword Extractor - نسخه لاراول 🚀
+# Google Keyword Extractor -  لاراول 🚀
 
 یک ابزار حرفه‌ای و سئو محور برای استخراج لایه‌ای کلمات کلیدی پیشنهادی گوگل (Google Autocomplete) که با فریم‌ورک محبوب لاراول پیاده‌سازی شده است.
 
